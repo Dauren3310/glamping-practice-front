@@ -1,5 +1,5 @@
 {
-  "*.ts": [
+  "*.{ts, tsx, css, sass, scss}": [
     "eslint --max-warnings=0",
     "prettier --write"
   ]
