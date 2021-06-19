@@ -2,21 +2,5 @@
   "*.ts": [
     "eslint --max-warnings=0",
     "prettier --write"
-  ],
-  "*.tsx": [
-    "eslint --max-warnings=0",
-    "prettier --write"
-  ],
-  "*.css": [
-    "eslint --max-warnings=0",
-    "prettier --write"
-  ],
-  "*.scss": [
-    "eslint --max-warnings=0",
-    "prettier --write"
-  ],
-  "*.sass": [
-    "eslint --max-warnings=0",
-    "prettier --write"
   ]
 }
