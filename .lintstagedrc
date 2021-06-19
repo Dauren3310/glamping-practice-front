@@ -1,7 +1,6 @@
 {
-  "*.[ts, tsx, css, sass, scss]": [
+  "*.[tsx, ts]": [
     "eslint --max-warnings=0",
     "prettier --write"
   ]
 }
-
