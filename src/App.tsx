@@ -1,11 +1,11 @@
-import React from 'react';
+import React, { ReactElement } from 'react';
 import './App.css';
 
-function App() {
+function App(): ReactElement {
   return (
-    <div className="App">
-      App for experiments
-    </div>
+    <>
+      <div className='App'>App for experiments</div>
+    </>
   );
 }
 
